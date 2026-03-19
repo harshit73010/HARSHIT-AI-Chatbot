@@ -8,7 +8,7 @@ st.title("🤖 HARSHIT AI Chatbot")
 st.write("Powered by Harshit 🚀")
 
 
-client = InferenceClient( api_key="YOUR_HF_API_KEY_XXXXXXXXXXXXXXXX")
+client = InferenceClient( api_key="api_key")
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
