@@ -1,5 +1,5 @@
 import streamlit as st
-from openai import OpenAI
+#from openai import OpenAI
 from huggingface_hub import InferenceClient
 
 st.set_page_config(page_title="HARSHIT AI Chatbot", page_icon="🤖")
