@@ -2,4 +2,4 @@ streamlit
 openai
 pandas
 numpy
-hugging face
+huggingface_hub
